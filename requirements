@@ -1,0 +1,15 @@
+## The Packages used in the Project
+bs4
+matplotlib
+pandas
+requests
+sqlalchemy
+pyarrow
+geopandas
+geopy
+os
+sqlalchemy
+numpy
+scipy
+keplergl
+seaborn
