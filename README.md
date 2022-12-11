@@ -8,3 +8,7 @@ In part 1, we do the following data preprocessing steps:
 3. Load and clean the taxi data, uber data, and the weather data.
 ## Part 2: Storing Cleaned Data
 In part 2, we store all the data obtained in part 1 to a database. We keep the data types the same.
+## Part 3: Understanding Data
+In this section, we store all the data in a database, and make queries in order to understand the data.
+## Part 4: Visualizing Data
+We create 6 visualizations in this part.
